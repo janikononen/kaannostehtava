@@ -3,4 +3,4 @@ Oli suhteellisen vaikean oloinen kun olen käyttänyt pääsääntöisesti windo
 - koitin käyttää gcc wsl avulla, onnistumatta
 - koitin käyttää javac, onnistumatta
 
-lopulta katselmoin vain .jar tiedostoa
+lopulta katselmoin vain .jar tiedostoa, joka oli aika sekalaista sotkua josta ei ymmärtänyt mitään.
